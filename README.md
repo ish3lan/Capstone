@@ -4,17 +4,15 @@
 ![alt text](https://github.com/ish3lan/Capstone/blob/master/3.png)
 
 
-To run the tests,
-1-truffle develop
-2- compile
-3- test
-
-Important note:
-Before running the tests, you have to change the proof path in TestSolnSquareVerifier.js and TestSquareVerifier.js (no .json needed)
+To run the tests:
+1- `cd` to `eth-contracts` folder.
+2- `truffle develop`
+3- `compile`
+4- `test`
 
 
 contract address:
-0x0f377af67845d959cab69ec05f5f1e340c5625a8 
+https://rinkeby.etherscan.io/address/0x0f377af67845d959cab69ec05f5f1e340c5625a8
 
 Token id:
 2
@@ -41,12 +39,13 @@ https://rinkeby.opensea.io/assets/0x0f377af67845d959cab69ec05f5f1e340c5625a8/2
 
 seller:
 0xa523f1358784e1479fea987c0b38e9b8d59d126e
-
+https://rinkeby.opensea.io/accounts/0xa523f1358784e1479fea987c0b38e9b8d59d126e
 buyer:
 0xf17f52151ebef6c7334fad080c5704d77216b732
-
+https://rinkeby.opensea.io/accounts/0xf17f52151ebef6c7334fad080c5704d77216b732
 
 other proofs:
+```
 {
     "proof":
     {
@@ -194,3 +193,4 @@ other proofs:
     },
     "input":["0x0000000000000000000000000000000000000000000000000000000000000064","0x0000000000000000000000000000000000000000000000000000000000000001"]
 }
+```
