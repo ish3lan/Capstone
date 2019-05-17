@@ -22,10 +22,23 @@ Token id:\
 2\
 https://rinkeby.etherscan.io/token/0x0f377af67845d959cab69ec05f5f1e340c5625a8  
 
+3\
+https://rinkeby.etherscan.io/token/0x0f377af67845d959cab69ec05f5f1e340c5625a8?a=3
+
+The rest can be found in the contract:  
+`https://rinkeby.etherscan.io/address/0x0f377af67845d959cab69ec05f5f1e340c5625a8`  
+
+
+Token Page in rinkeby:  
+`https://rinkeby.etherscan.io/token/0x0f377af67845d959cab69ec05f5f1e340c5625a8`  
+
+
 Token on OpenSea:\
-https://rinkeby.opensea.io/assets/0x0f377af67845d959cab69ec05f5f1e340c5625a8/2  
+`https://rinkeby.opensea.io/assets/0x0f377af67845d959cab69ec05f5f1e340c5625a8/2`   
 
 
+See all of my itmes in OpenSea:\
+`https://rinkeby.opensea.io/accounts/0xa523f1358784e1479fea987c0b38e9b8d59d126e`  
 
 
 ```
