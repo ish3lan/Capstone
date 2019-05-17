@@ -1,3 +1,7 @@
+![alt text](https://github.com/ish3lan/Capstone/blob/master/1.png)
+![alt text](https://github.com/ish3lan/Capstone/blob/master/2.png)
+![alt text](https://github.com/ish3lan/Capstone/blob/master/3.png)
+
 
 To run the tests,
 1-truffle develop
