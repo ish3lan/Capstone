@@ -11,15 +11,22 @@ To run the tests:\
 4- `test`  
 
 
-contract address:\
-https://rinkeby.etherscan.io/address/0x0f377af67845d959cab69ec05f5f1e340c5625a8  
+Contract address:\
+`https://rinkeby.etherscan.io/address/0x0f377af67845d959cab69ec05f5f1e340c5625a8`  
+
+Contract abi:  
+\eth-contracts\build\contracts\SolnSquareVerifier.json
+
 
 Token id:\
 2\
 https://rinkeby.etherscan.io/token/0x0f377af67845d959cab69ec05f5f1e340c5625a8  
 
-Token on open sea:\
+Token on OpenSea:\
 https://rinkeby.opensea.io/assets/0x0f377af67845d959cab69ec05f5f1e340c5625a8/2  
+
+
+
 
 ```
 "proof":
@@ -39,14 +46,14 @@ https://rinkeby.opensea.io/assets/0x0f377af67845d959cab69ec05f5f1e340c5625a8/2
 }
 ```
 
-seller:\
+Seller:\
 0xa523f1358784e1479fea987c0b38e9b8d59d126e\
 https://rinkeby.opensea.io/accounts/0xa523f1358784e1479fea987c0b38e9b8d59d126e  
-buyer:
+Buyer:
 0xf17f52151ebef6c7334fad080c5704d77216b732\
 https://rinkeby.opensea.io/accounts/0xf17f52151ebef6c7334fad080c5704d77216b732  
 
-other proofs:  
+Other proofs:  
 ```
 {
     "proof":
