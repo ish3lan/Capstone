@@ -16,6 +16,7 @@ https://rinkeby.etherscan.io/address/0x0f377af67845d959cab69ec05f5f1e340c5625a8
 
 Token id:
 2
+https://rinkeby.etherscan.io/token/0x0f377af67845d959cab69ec05f5f1e340c5625a8
 
 Token on open sea:
 https://rinkeby.opensea.io/assets/0x0f377af67845d959cab69ec05f5f1e340c5625a8/2
