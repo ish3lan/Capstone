@@ -3,6 +3,7 @@
 ![alt text](https://github.com/ish3lan/Capstone/blob/master/2.png)
 ![alt text](https://github.com/ish3lan/Capstone/blob/master/3.png)
 ![alt text](https://github.com/ish3lan/Capstone/blob/master/5.png)
+![alt text](https://github.com/ish3lan/Capstone/blob/master/6.png)
 
 
 To run the tests:\
@@ -16,15 +17,15 @@ Contract address:\
 `https://rinkeby.etherscan.io/address/0x0f377af67845d959cab69ec05f5f1e340c5625a8`  
 
 Contract abi:  
-\eth-contracts\build\contracts\SolnSquareVerifier.json
+`\eth-contracts\build\contracts\SolnSquareVerifier.json`
 
 
 Token id:\
 2\
-https://rinkeby.etherscan.io/token/0x0f377af67845d959cab69ec05f5f1e340c5625a8  
+`https://rinkeby.etherscan.io/token/0x0f377af67845d959cab69ec05f5f1e340c5625a8`  
 
 3\
-https://rinkeby.etherscan.io/token/0x0f377af67845d959cab69ec05f5f1e340c5625a8?a=3
+`https://rinkeby.etherscan.io/token/0x0f377af67845d959cab69ec05f5f1e340c5625a8?a=3`
 
 The rest can be found in the contract:  
 `https://rinkeby.etherscan.io/address/0x0f377af67845d959cab69ec05f5f1e340c5625a8`  
