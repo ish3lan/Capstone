@@ -8,7 +8,7 @@ To run the tests:\
 1- `cd` to `eth-contracts` folder.\
 2- `truffle develop`\
 3- `compile`\
-4- `test`\
+4- `test`  
 
 
 contract address:\
@@ -46,7 +46,7 @@ buyer:
 0xf17f52151ebef6c7334fad080c5704d77216b732\
 https://rinkeby.opensea.io/accounts/0xf17f52151ebef6c7334fad080c5704d77216b732  
 
-other proofs:\
+other proofs:  
 ```
 {
     "proof":
