@@ -8,7 +8,7 @@
 
 const truffleAssert = require('truffle-assertions')
 var SolnSquareVerifier = artifacts.require('./SolnSquareVerifier');
-var proof = require('/Users/iSh3lan/Udacity/Block Chain/Project 9/Blockchain-Capstone-master/zokrates/code/square/proof');
+var proof = require('../../zokrates/code/square/proof');
 contract('SolnSquareVerifier', accounts => {
 
     const account_one = accounts[0];

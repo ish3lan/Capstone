@@ -7,7 +7,7 @@
 // Test verification with incorrect proof
 var Verifier = artifacts.require('./Verifier');
 //var proof = require('C:/Users/zax0a/Desktop/Capstone/Blockchain-Capstone-master/zokrates/code/square/proof');
-var proof = require('/Users/iSh3lan/Udacity/Block Chain/Project 9/Blockchain-Capstone-master/zokrates/code/square/proof');
+var proof = require('../../zokrates/code/square/proof');
 contract('Verifier', accounts => {
 
     const account_one = accounts[0];
