@@ -1,3 +1,4 @@
+![alt text](https://github.com/ish3lan/Capstone/blob/master/4.png)
 ![alt text](https://github.com/ish3lan/Capstone/blob/master/1.png)
 ![alt text](https://github.com/ish3lan/Capstone/blob/master/2.png)
 ![alt text](https://github.com/ish3lan/Capstone/blob/master/3.png)
@@ -9,7 +10,7 @@ To run the tests,
 3- test
 
 Important note:
-Before running the tests, you have to change the proof path in TestSolnSquareVerifier.js and TestSquareVerifier.js
+Before running the tests, you have to change the proof path in TestSolnSquareVerifier.js and TestSquareVerifier.js (no .json needed)
 
 
 contract address:
