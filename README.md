@@ -4,22 +4,22 @@
 ![alt text](https://github.com/ish3lan/Capstone/blob/master/3.png)
 
 
-To run the tests:
-1- `cd` to `eth-contracts` folder.
-2- `truffle develop`
-3- `compile`
-4- `test`
+To run the tests:\
+1- `cd` to `eth-contracts` folder.\
+2- `truffle develop`\
+3- `compile`\
+4- `test`\
 
 
-contract address:
-https://rinkeby.etherscan.io/address/0x0f377af67845d959cab69ec05f5f1e340c5625a8
+contract address:\
+https://rinkeby.etherscan.io/address/0x0f377af67845d959cab69ec05f5f1e340c5625a8  
 
-Token id:
-2
-https://rinkeby.etherscan.io/token/0x0f377af67845d959cab69ec05f5f1e340c5625a8
+Token id:\
+2\
+https://rinkeby.etherscan.io/token/0x0f377af67845d959cab69ec05f5f1e340c5625a8  
 
-Token on open sea:
-https://rinkeby.opensea.io/assets/0x0f377af67845d959cab69ec05f5f1e340c5625a8/2
+Token on open sea:\
+https://rinkeby.opensea.io/assets/0x0f377af67845d959cab69ec05f5f1e340c5625a8/2  
 
 ```
 "proof":
@@ -39,14 +39,14 @@ https://rinkeby.opensea.io/assets/0x0f377af67845d959cab69ec05f5f1e340c5625a8/2
 }
 ```
 
-seller:
-0xa523f1358784e1479fea987c0b38e9b8d59d126e
-https://rinkeby.opensea.io/accounts/0xa523f1358784e1479fea987c0b38e9b8d59d126e
+seller:\
+0xa523f1358784e1479fea987c0b38e9b8d59d126e\
+https://rinkeby.opensea.io/accounts/0xa523f1358784e1479fea987c0b38e9b8d59d126e  
 buyer:
-0xf17f52151ebef6c7334fad080c5704d77216b732
-https://rinkeby.opensea.io/accounts/0xf17f52151ebef6c7334fad080c5704d77216b732
+0xf17f52151ebef6c7334fad080c5704d77216b732\
+https://rinkeby.opensea.io/accounts/0xf17f52151ebef6c7334fad080c5704d77216b732  
 
-other proofs:
+other proofs:\
 ```
 {
     "proof":
